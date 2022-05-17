@@ -1,5 +1,0 @@
-scikit-learn
-scipy
-tensorflow-gpu==2.6.0
-tqdm
-numpy
